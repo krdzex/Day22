@@ -4,10 +4,10 @@ const TableHeader = () => {
         <thead>
             <tr>
                 <th>
-                    First Name
+                    First name
             </th>
                 <th>
-                    Last Name
+                    Last name
             </th>
             </tr>
         </thead>
